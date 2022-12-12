@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tugas9</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string-array name="cuaca">
+        <item>Badai</item>
+        <item>Awan</item>
+        <item>Berawan</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>27C</item>
+        <item>27C</item>
+        <item>27C</item>
+    </string-array>
+</resources>

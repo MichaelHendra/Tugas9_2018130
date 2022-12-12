@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cuaca"
+            android:icon="@drawable/ic_baseline_cloud_24"
+            android:title="Cuaca Hari Ini" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="Setting" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_Alarm"
+            android:icon="@drawable/ic_baseline_alarm_24"
+            android:title="Alarm" />
+        <item
+            android:id="@+id/nav_Sqlite"
+            android:icon="@drawable/ic_baseline_insert_photo_24"
+            android:title="Sqlite" />
+        <item
+            android:id="@+id/nav_Wheater"
+            android:icon="@drawable/ic_baseline_cloud_24"
+            android:title="Weather" />
+    </group>
+
+</menu>
